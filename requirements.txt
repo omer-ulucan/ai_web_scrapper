@@ -1,0 +1,31 @@
+# API & Web Framework
+fastapi
+uvicorn
+
+# Web Scraping
+playwright
+beautifulsoup4
+requests
+duckduckgo-search
+
+# Database & ORM (PostreSQL)
+sqlalchemy
+asyncpg
+psycopg2-binary
+
+scipy
+
+# API Safety and Authentication
+python-dotenv
+passlib
+bcrypt
+pyjwt
+
+# Cache & Queue Management
+redis
+
+# Logging & Monitoring
+loguru
+
+# Container & Deployment
+docker

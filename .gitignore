@@ -1,0 +1,6 @@
+.env
+
+backend/DockerFile
+
+docker-compose.yml
+
